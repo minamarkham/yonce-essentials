@@ -1,5 +1,7 @@
 # Yonce Essentials Extension Pack
 
+[![Badge for version for Visual Studio Code extension](https://img.shields.io/visual-studio-marketplace/v/minamarkham.yonce-essentials?style=for-the-badge&color=blue)](https://marketplace.visualstudio.com/items?itemName=minamarkham.yonce-essentials)
+
 ## Introduction
 
 This extension pack is a collection of extensions that are used to enhance the VS Code experience. It is intended to be used with the [Yoncé Theme](https://marketplace.visualstudio.com/items?itemName=minamarkham.yonce-theme) and [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) extensions.
@@ -68,4 +70,14 @@ The following extensions aren't included as part of this extension pack, but are
 
 All credits goes to original authors of the above mentioned extensions.
 
-**Happy Coding!**
+## License
+
+The source code for this extension is licensed under the [MIT][LICENSE] license.
+
+---
+
+<p align="center">
+    made with :heart: by <a href="https://github.com/minamarkham">me</a>
+</p>
+
+[LICENSE]: LICENSE

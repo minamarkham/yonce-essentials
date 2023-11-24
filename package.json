@@ -2,11 +2,16 @@
   "name": "yonce-essentials",
   "displayName": "Yoncé Essentials",
   "description": "A collection of language-agnostic extensions for development in Visual Studio Code.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "minamarkham",
   "license": "SEE LICENSE IN LICENSE",
   "repository": {
     "url": "https://github.com/minamarkham/yonce-essentials"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+      "color": "#1c1c1c",
+      "theme": "dark"
   },
   "bugs": {
     "url": "https://github.com/minamarkham/yonce-essentials/issues"
