@@ -1,0 +1,51 @@
+{
+  "name": "yonce-essentials",
+  "displayName": "Yoncé Essentials",
+  "description": "A collection of language-agnostic extensions for development in Visual Studio Code.",
+  "version": "0.0.1",
+  "publisher": "minamarkham",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "url": "https://github.com/minamarkham/yonce-essentials"
+  },
+  "bugs": {
+    "url": "https://github.com/minamarkham/yonce-essentials/issues"
+  },
+  "homepage": "https://github.com/minamarkham/yonce-essentials",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aaron-bond.better-comments",
+    "anseki.vscode-color",
+    "bierner.color-info",
+    "bierner.emojisense",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "GitHub.copilot",
+    "GitHub.copilot-chat",
+    "jrebocho.vscode-random",
+    "minamarkham.yonce-theme",
+    "naumovs.color-highlight",
+    "nhoizey.gremlins",
+    "pflannery.vscode-versionlens",
+    "PKief.material-icon-theme",
+    "shardulm94.trailing-spaces",
+    "SirTori.indenticator",
+    "streetsidesoftware.code-spell-checker",
+    "stylelint.vscode-stylelint",
+    "tombonnike.vscode-status-bar-format-toggle",
+    "usernamehw.errorlens",
+    "vincaslt.highlight-matching-tag",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "vitaliymaz.vscode-svg-previewer",
+    "wayou.vscode-todo-highlight"
+  ]
+}

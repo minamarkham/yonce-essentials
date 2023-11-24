@@ -1,0 +1,6 @@
+node_modules
+*.vsix
+
+# macOS related files
+.DS_Store
+Icon?
